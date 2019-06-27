@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_plan">
+    <sys_hub_action_plan action="INSERT_OR_UPDATE">
+        <action_id display_value="Get Days Ago Date">3eb5aeecdbd6b300abb66f774896195e</action_id>
+        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_hub_action_plan","id":"4d8862a0db1ab300abb66f77489619c2","name":"plan"}}</plan>
+        <snapshot>708862a0db1ab300abb66f774896196a</snapshot>
+        <sys_class_name>sys_hub_action_plan</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-24 12:41:49</sys_created_on>
+        <sys_id>4d8862a0db1ab300abb66f77489619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3eb5aeecdbd6b300abb66f774896195e</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_363335_needit_sp">6a6b0eacdb56b300abb66f77489619ae</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">6a6b0eacdb56b300abb66f77489619ae</sys_scope>
+        <sys_update_name>sys_hub_action_plan_4d8862a0db1ab300abb66f77489619c2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-24 12:41:49</sys_updated_on>
+    </sys_hub_action_plan>
+</record_update>
